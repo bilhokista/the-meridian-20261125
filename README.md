@@ -1,5 +1,9 @@
 # The Meridian — 25 November 2026
 
+[![make.fun bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![Rank](https://make.fun/badge/news-image-20261125/bilhokista/the-meridian-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard)
+[![Reward](https://make.fun/badge/news-image-20261125/bilhokista/the-meridian-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+
 An illustrated English-language front page covering six stories across trade,
 spaceflight, diplomacy, courts, coastal weather and disaster response. The
 illustrations are editorial drawings, not depictions of the exact locations,
